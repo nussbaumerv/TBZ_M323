@@ -1,5 +1,4 @@
-Absolut! Hier ist eine detaillierte Lösung der Aufgaben, inklusive Erklärungen, Code-Beispielen und Hinweisen zur Dokumentation:
-
+# Aufgaben vom 3.3
 **Aufgabe 1 - Pure vs. Impure Funktionen**
 
 Hier ist die Tabelle, die die Analyse der Funktionen zusammenfasst:
